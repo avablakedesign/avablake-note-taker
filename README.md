@@ -9,7 +9,8 @@ This is a Note Taker app programmed by Ava Blake Design.
 
  What problem does it solve?: This project solves the problem of note taking. Physical notes can be lost or become unorderly. This app allows someone to have back up files, easy editing and better organisation.
 
- What did you learn?: I learned how to program the backend. 
+ What did you learn?: I learned how to program the backend. I understand express.js. I know about servers, middleware, routes and ports.
+
  ## Installation
 Use npm start to start the server and ctrl C to stop it. 
  ## Table of Contents
