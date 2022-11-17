@@ -22,6 +22,7 @@ Use npm start to start the server and ctrl C to stop it.
 - [Questions](#questions)
  ## Usage
  ![screenshot](avablake-note-taker-screenshot.png)
+  <a href = "https://avablake-note-taker.herokuapp.com/notes">Link to the deployed Note Taker App</a>
  ## License
  This project is covered under MIT.
 https://mit-license.org
